@@ -1,7 +1,8 @@
 ### [과제] 숙련주차 과제 답
 
 
-![[leonardo-dicaprio-angry-meme-cf76o9wueqfluwrk.gif]]
+![leonardo-dicaprio-angry-meme-cf76o9wueqfluwrk](https://user-images.githubusercontent.com/122663756/219270857-d88f5090-df78-47e3-a77b-eb488dba0b3a.gif)
+
 
 
 ## 1. 추가 
