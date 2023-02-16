@@ -54,11 +54,12 @@ const List = () => {
       </StListWrapper>
       <h2 className="list-title">Done..! 🎉</h2>
       <StListWrapper>
-        {todos.map((todo, index) => {
+        {todos.map((todo) => {
           if (todo.isDone) {
             return (
+              // 얘 혼자만 index.id 라서 그냥 todo.id로 바꾸니까 작동함..
               <StTodoContainer key={todo.id}>
-                <StLink to={`/${index}`} key={todo.id}>
+                <StLink to={`/${todo.id}`} key={todo.id}>
                   <div>상세보기</div>
                 </StLink>
                 <div>
